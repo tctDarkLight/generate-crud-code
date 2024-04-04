@@ -1,0 +1,114 @@
+
+k
+java:S1192"IDefine a constant instead of duplicating this literal " * <ul>
+" 4 times.(ó€Ä›øÿÿÿÿ8â¹Ô¬1
+
+java:S1192"nDefine a constant instead of duplicating this literal "import javax.validation.ConstraintValidator;
+" 4 times.(×œ÷ñûÿÿÿÿ8â¹Ô¬1
+w
+java:S1192+"ZDefine a constant instead of duplicating this literal "\tint value() default 0;
+" 4 times.(–Ó´à8â¹Ô¬1
+s
+java:S1192F"WDefine a constant instead of duplicating this literal "\t\t\t\treturn false;
+" 5 times.(˜’–<8â¹Ô¬1
+r
+java:S1192?"PDefine a constant instead of duplicating this literal "\t\t@Override
+" 10 times.(ñ¬èÍÿÿÿÿÿ8ã¹Ô¬1
+g
+java:S1192"EDefine a constant instead of duplicating this literal "/**
+" 4 times.(–ôÍÿÿÿÿÿ8ã¹Ô¬1
+‚
+java:S1192""`Define a constant instead of duplicating this literal " * @website https://madaoo.com
+" 4 times.(ç¶ÜËúÿÿÿÿ8ã¹Ô¬1
+‰
+java:S1192P"gDefine a constant instead of duplicating this literal "import cn.hutool.core.lang.Validator;
+" 3 times.(¿Ó­Ïÿÿÿÿÿ8ã¹Ô¬1
+f
+java:S1192G"IDefine a constant instead of duplicating this literal "\t\t\t}
+" 5 times.(­ºÒï8ã¹Ô¬1
+v
+java:S1192"YDefine a constant instead of duplicating this literal " * Supported types are:
+" 4 times.(ãõÍÓ8ã¹Ô¬1
+‚
+java:S1192"`Define a constant instead of duplicating this literal "import java.lang.annotation.*;
+" 4 times.(°øˆ˜ÿÿÿÿÿ8ä¹Ô¬1
+g
+java:S1192$"EDefine a constant instead of duplicating this literal " */
+" 4 times.(ÑƒÌ¥üÿÿÿÿ8ä¹Ô¬1
+È
+java:S1192D"¥Define a constant instead of duplicating this literal "\t\tpublic boolean isValid(String content, ConstraintValidatorContext constraintValidatorContext) {
+" 3 times.(ÔÁşºıÿÿÿÿ8ä¹Ô¬1
+„
+java:S11927"gDefine a constant instead of duplicating this literal "\t@Retention(RetentionPolicy.RUNTIME)
+" 4 times.(éÅ³Œ8ä¹Ô¬1
+„
+java:S1192!"hDefine a constant instead of duplicating this literal " * @gitHub https://github.com/GuoGuang
+" 4 times.(ˆã¢/8ä¹Ô¬1
+g
+java:S1192"JDefine a constant instead of duplicating this literal " * </ul>
+" 4 times.(õõÇ¤8ä¹Ô¬1
+z
+java:S1192E"^Define a constant instead of duplicating this literal "\t\t\tif (content == null) {
+" 3 times.(üÚÈ08ä¹Ô¬1
+r
+java:S1192"UDefine a constant instead of duplicating this literal " * @author GuoGuang
+" 4 times.(™ĞÜÏ8ä¹Ô¬1
+r
+java:S11929"UDefine a constant instead of duplicating this literal "\t@interface List {
+" 4 times.(Îüà¤8å¹Ô¬1
+l
+java:S11928"ODefine a constant instead of duplicating this literal "\t@Documented
+" 4 times.(ŒŸ¬Ô8å¹Ô¬1
+˜
+java:S1192%"{Define a constant instead of duplicating this literal "@Target({ElementType.ANNOTATION_TYPE, ElementType.FIELD})
+" 4 times.(îˆı8å¹Ô¬1
+~
+java:S1192 "\Define a constant instead of duplicating this literal " * @å…¬ä¼—å· ç é“äººç”Ÿ
+" 4 times.(åş ‚şÿÿÿÿ8å¹Ô¬1
+z
+java:S1192#"XDefine a constant instead of duplicating this literal " * @created 2021-09-02
+" 4 times.(Ñêèøüÿÿÿÿ8å¹Ô¬1
+‚
+java:S1192"eDefine a constant instead of duplicating this literal "import javax.validation.Constraint;
+" 4 times.(àßø8æ¹Ô¬1
+²
+java:S11926"”Define a constant instead of duplicating this literal "\t@Target({ElementType.FIELD, ElementType.ANNOTATION_TYPE, ElementType.PARAMETER})
+" 4 times.(ˆ±›8æ¹Ô¬1
+i
+java:S11923"GDefine a constant instead of duplicating this literal "\t/**
+" 4 times.(Ù‚¨ÿÿÿÿÿ8æ¹Ô¬1
+…
+java:S1192/"cDefine a constant instead of duplicating this literal "\tClass<?>[] groups() default {};
+" 4 times.(ˆûù´úÿÿÿÿ8æ¹Ô¬1
+d
+java:S11925"GDefine a constant instead of duplicating this literal "\t */
+" 4 times.(ì§Õ¢8æ¹Ô¬1
+–
+java:S11921"tDefine a constant instead of duplicating this literal "\tClass<? extends Payload>[] payload() default {};
+" 4 times.( Â‘Úşÿÿÿÿ8æ¹Ô¬1
+j
+java:S1192"HDefine a constant instead of duplicating this literal " * <p>
+" 4 times.(ÍÛ¸îıÿÿÿÿ8æ¹Ô¬1
+d
+java:S1192A"GDefine a constant instead of duplicating this literal "\t\t}
+" 6 times.(ëœÎÓ8æ¹Ô¬1
+|
+java:S1192"`Define a constant instead of duplicating this literal " *     <li>{@code String}</li>
+" 3 times.(‚« s8ç¹Ô¬1
+—
+java:S1192"uDefine a constant instead of duplicating this literal "import javax.validation.ConstraintValidatorContext;
+" 4 times.(Ÿ„§šûÿÿÿÿ8ç¹Ô¬1
+„
+java:S1192"bDefine a constant instead of duplicating this literal "import javax.validation.Payload;
+" 4 times.(÷Ÿìıÿÿÿÿ8ç¹Ô¬1
+b
+java:S1192;"EDefine a constant instead of duplicating this literal "\t}
+" 9 times.(İÈõ¼8ç¹Ô¬1
+
+java:S1192&"eDefine a constant instead of duplicating this literal "@Retention(RetentionPolicy.RUNTIME)
+" 4 times.(šâ¼48ç¹Ô¬1
+o
+java:S1192'"MDefine a constant instead of duplicating this literal "@Documented
+" 4 times.(¢¨½ºÿÿÿÿÿ8ç¹Ô¬1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ş”Üıÿÿÿÿ8ò¹Ô¬1

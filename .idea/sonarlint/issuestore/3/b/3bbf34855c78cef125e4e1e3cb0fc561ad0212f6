@@ -1,0 +1,21 @@
+
+L
+java:S1611F"/Remove the parentheses around the "a" parameter(Ÿ½¤°8®ô¸×¬1
+X
+java:S1611Y"6Remove the parentheses around the "psiClass" parameter(Íßö–ÿÿÿÿÿ8±ô¸×¬1
+u
+java:S1602Y"SRemove useless curly braces around statement and then remove useless return keyword(Íßö–ÿÿÿÿÿ8±ô¸×¬1
+t
+java:S3776^"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(½ÄÙÿøÿÿÿÿ8±ô¸×¬1
+R
+java:S1905„"/Remove this unnecessary cast to "PsiDirectory".(¦Ëß¹üÿÿÿÿ8µô¸×¬1
+O
+java:S1602…",Remove useless curly braces around statement(‹æÀ±øÿÿÿÿ8¶ô¸×¬1
+M
+java:S1905"*Remove this unnecessary cast to "IdeView".(—üïûÿÿÿÿ8¸ô¸×¬1
+U
+java:S1611”"7Remove the parentheses around the "directory" parameter(èÕÙ8¹ô¸×¬1
+R
+java:S1905˜"/Remove this unnecessary cast to "PsiDirectory".(¢­Õóüÿÿÿÿ8¹ô¸×¬1
+u
+java:S3776©"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÜÍ ñùÿÿÿÿ8»ô¸×¬1

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a815e5f8-28db-4dea-a4f2-44e72a0502f7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation>
+            <after_sync>
+              <task name="setupDependencies" />
+            </after_sync>
+          </activation>
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2Tel7WeLufovvGsxAZTrwEtP5r5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/endar/Downloads/Compressed/generate-crud-code-main/build/libs/generate-crud-code-3.29.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle buildPlugin" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="generate-crud-code-main [buildPlugin]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildPlugin" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.generate-crud-code-main [buildPlugin]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a815e5f8-28db-4dea-a4f2-44e72a0502f7" name="Changes" comment="" />
+      <created>1691411259719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691411259719</updated>
+      <workItem from="1691411260752" duration="661000" />
+      <workItem from="1691411951993" duration="331000" />
+      <workItem from="1691412318591" duration="535000" />
+      <workItem from="1691412874211" duration="599000" />
+      <workItem from="1691477102452" duration="597000" />
+      <workItem from="1691492834390" duration="1124000" />
+      <workItem from="1691534929135" duration="595000" />
+      <workItem from="1692672013091" duration="867000" />
+      <workItem from="1693210521876" duration="1290000" />
+      <workItem from="1693212016695" duration="5530000" />
+      <workItem from="1693220794420" duration="1034000" />
+      <workItem from="1693221844383" duration="1826000" />
+      <workItem from="1694494255265" duration="7229000" />
+      <workItem from="1694505425535" duration="1454000" />
+      <workItem from="1694506918549" duration="235000" />
+      <workItem from="1694507168772" duration="1199000" />
+      <workItem from="1694508403055" duration="3984000" />
+      <workItem from="1694591958379" duration="2102000" />
+      <workItem from="1694730797915" duration="1382000" />
+      <workItem from="1694771794931" duration="1009000" />
+      <workItem from="1694825155193" duration="1995000" />
+      <workItem from="1695007669389" duration="1807000" />
+      <workItem from="1695123040083" duration="597000" />
+      <workItem from="1695196887859" duration="593000" />
+      <workItem from="1695288759413" duration="1075000" />
+      <workItem from="1695293311805" duration="1261000" />
+      <workItem from="1695357814446" duration="2815000" />
+      <workItem from="1695610381753" duration="586000" />
+      <workItem from="1695610985224" duration="1636000" />
+      <workItem from="1695614217478" duration="1090000" />
+      <workItem from="1695615332110" duration="521000" />
+      <workItem from="1695615884036" duration="736000" />
+      <workItem from="1695616637250" duration="1367000" />
+      <workItem from="1695620343851" duration="1041000" />
+      <workItem from="1695621672742" duration="365000" />
+      <workItem from="1695622068251" duration="558000" />
+      <workItem from="1699846474829" duration="405000" />
+      <workItem from="1699846911842" duration="3697000" />
+      <workItem from="1700064555177" duration="594000" />
+      <workItem from="1701051339482" duration="1272000" />
+      <workItem from="1703648074452" duration="176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/madao/plugin/WebMvcAction.java</url>
+          <line>493</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
